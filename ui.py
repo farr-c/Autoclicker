@@ -12,7 +12,7 @@ window = tk.Tk()
 print("At this point!2")
 window.geometry("300x100") 
 
-window.title("fishing auto clicker XD")
+window.title("fishing auto clicker XDDDDDDD")
 c = False
 def toggleMode():
    global c
